@@ -1,4 +1,4 @@
-# Event Organising Website
+<img width="1366" height="768" alt="Screenshot (653)" src="https://github.com/user-attachments/assets/696308fa-5f93-4f9c-9593-32a7c7377981" /># Event Organising Website
 
 A modern and responsive **Event Organising Web Application** built using **React.js**.
 This project helps users explore, plan, and manage events with an interactive and user-friendly interface.
