@@ -56,4 +56,4 @@ http://localhost:3000
 ```
 
 **Screenshots**
-![home Page](assets/home.png)
+![Home Page](assets/home.png)
