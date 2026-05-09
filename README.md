@@ -56,21 +56,13 @@ http://localhost:3000
 ```
 
 **Screenshots**
-
-<img width="1366" height="768" alt="menu" src="https://github.com/user-attachments/assets/058ca70d-3104-4f54-8fff-2f157073fa92" />
-
-<img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/e5ea7940-a050-48c6-8852-47543933e38e" />
-
-<img width="1366" height="768" alt="home" src="https://github.com/user-attachments/assets/68f75ead-716f-46d9-b532-0128891ff5cd" />
-
-<img width="1366" height="768" alt="contact" src="https://github.com/user-attachments/assets/6c27f568-2e76-4890-abdb-6a345934cf5d" />
-
-<img width="1366" height="768" alt="alert" src="https://github.com/user-attachments/assets/383cc74b-66a0-4db2-90f2-9458162346da" />
-
-<img width="1366" height="768" alt="about" src="https://github.com/user-attachments/assets/36c598a7-6986-44cb-b712-d4bb0ada9084" />
-
-<img width="1366" height="768" alt="signup" src="https://github.com/user-attachments/assets/4070799a-912b-449b-a5f9-8fe94a4b2b95" />
-
+<img width="1366" height="768" alt="signup" src="https://github.com/user-attachments/assets/04fdb439-1573-4be4-8929-f3311dcc3420" />
+<img width="1366" height="768" alt="menu" src="https://github.com/user-attachments/assets/3587c752-1ecd-4478-a502-ccf7aa5145df" />
+<img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/707d011c-c995-4094-954d-4db04eb616a8" />
+<img width="1366" height="768" alt="home" src="https://github.com/user-attachments/assets/bee53aba-b938-48b0-8c04-faa7e7aba0cc" />
+<img width="1366" height="768" alt="contact" src="https://github.com/user-attachments/assets/94b3ac20-fc68-4202-9d67-d4aee48ad3ca" />
+<img width="1366" height="768" alt="alert" src="https://github.com/user-attachments/assets/7a156c2c-c409-4d25-a631-452cb2339b37" />
+<img width="1366" height="768" alt="about" src="https://github.com/user-attachments/assets/6eaa7e33-01fe-4728-8f2e-d9d594295227" />
 
 
 
