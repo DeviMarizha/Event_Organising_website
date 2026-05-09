@@ -54,3 +54,21 @@ http://localhost:3000
 ## Screenshots
 
 ![Home Page](assets/home.png)
+
+### Login Page
+![Login Page](assets/login.png)
+
+### Signup Page
+![Signup Page](assets/signup.png)
+
+### About Page
+![About Page](assets/about.png)
+
+### Contact Page
+![Contact Page](assets/contact.png)
+
+### Menu Page
+![Menu Page](assets/menu.png)
+
+### Alert Page
+![Alert Page](assets/alert.png)
