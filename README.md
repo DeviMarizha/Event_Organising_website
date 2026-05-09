@@ -1,8 +1,6 @@
-````md
 # Event Organising Website
 
-A modern and responsive **Event Organising Web Application** built using **React.js**.  
-This project helps users explore, plan, and manage events with an interactive and user-friendly interface.
+A modern and responsive **Event Organising Web Application** built using **React.js**.
 
 ---
 
@@ -10,49 +8,42 @@ This project helps users explore, plan, and manage events with an interactive an
 
 - Home page with attractive UI
 - Event listing and details
-- Event booking / enquiry form
-- Easy navigation between pages
-- Fully responsive design
-- Fast and dynamic UI using React components
+- Event booking form
+- Responsive design
+- Easy navigation
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** React.js
-- **Styling:** CSS / Bootstrap
-- **Language:** JavaScript (ES6)
-- **Tools:** VS Code, npm
+- React.js
+- JavaScript
+- CSS
+- Bootstrap
 
 ---
 
 ## Installation & Setup
 
-### 1. Clone the repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/event-organising-website.git
 ```
 
-### 2. Navigate to the project folder
-
-```bash
-cd Eventa
-```
-
-### 3. Install dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Run the project
+### Run Project
 
 ```bash
 npm start
 ```
 
-### 5. Open in browser
+### Open Browser
 
 ```bash
 http://localhost:3000
@@ -62,4 +53,4 @@ http://localhost:3000
 
 ## Screenshots
 
-<img src="assets/home.png" width="800"/> ````
+![Home Page](assets/home.png)
