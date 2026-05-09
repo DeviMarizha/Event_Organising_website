@@ -55,5 +55,6 @@ npm start
 http://localhost:3000
 ```
 
-**Screenshots**
+## Screenshots
+
 ![Home Page](assets/home.png)
