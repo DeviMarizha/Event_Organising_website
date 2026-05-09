@@ -62,5 +62,5 @@ http://localhost:3000
 
 ## Screenshots
 
-![Home Page](assets/home.png)
+<img src="assets/home.png" width="800"/>
 ````
