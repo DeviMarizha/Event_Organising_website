@@ -63,4 +63,3 @@ http://localhost:3000
 ## Screenshots
 
 <img src="assets/home.png" width="800"/>
-````
